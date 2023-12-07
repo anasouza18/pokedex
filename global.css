@@ -1,0 +1,30 @@
+:root {
+  --white: #FFFFFF;
+  --red: #C20001;
+  --gray: #EFF3F6;
+  --black: #2F3133;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.teste {
+
+}

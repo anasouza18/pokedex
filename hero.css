@@ -1,0 +1,25 @@
+.hero {
+  background-color: var(--red);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-title, .hero-subtitle {
+  color: var(--white);
+}
+
+.hero-title {
+  font-size: 64px;
+}
+
+.hero-subtitle {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.hero-image {
+  margin-bottom: -280px;
+}
